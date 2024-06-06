@@ -1,5 +1,17 @@
-@import url(_about.scss);
+@import url(_navbar.scss);
 @import url(_hero.scss);
-@import url(_footer.scss);
+@import url(_about.scss);
+@import url(_service.scss);
 @import url(_contact.scss);
+@import url(_footer.scss);
 
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+.container {
+    width: 90%;
+    margin: 0 auto;
+}
