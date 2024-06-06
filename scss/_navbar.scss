@@ -15,7 +15,15 @@
         gap: 50px;
 
         .header__box--h1 {
-            font-size: xx-large;
+            font-size: x-large;
+            font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+            color: white;
+        }
+
+        .header__box--pr {
+            font-size: 15px;
+            font-family:'Courier New', Courier, monospace;
+            color: white;
         }
     }
 }
