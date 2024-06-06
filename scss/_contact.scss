@@ -1,0 +1,53 @@
+.section {
+    width: 100%;
+    height: 1000px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 40px;
+    background: #222831;
+
+}
+
+.box2{
+    width: Hug (540px)px;
+    height: Hug (159px)px;
+    gap: 16px;
+    opacity: 0px;
+    text-align: center;
+    display: flex;
+    align-items: center;
+}
+
+.btn{
+    display: flex;
+    width: Hug(482px);
+    height: Hug(47px);
+    gap: 6px;
+    transform: translate(0,50px);
+
+}
+
+.box3{
+    display: flex;
+    gap: 30px;
+    transform: translate(0,90px);
+}
+.but1
+{
+    color: white;
+    width: 120px;
+    height: 40px;
+    border-radius: 21px;
+    background-color: blue;
+    border: 2px solid blue;
+}
+.but
+{
+    background-color: darkgray;
+    border: 2px solid darkgray;
+    color: white;
+    width: 120px;
+    height: 40px;
+    border-radius: 21px;
+}
